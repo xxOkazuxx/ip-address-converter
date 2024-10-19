@@ -1,2 +1,2 @@
-# ip-address-converter
+# IPアドレス変換プログラム
 IPv4のIPアドレスを入力したら二進数表記に変換するプログラム
